@@ -1,0 +1,9 @@
+{
+  "IsEncrypted":false,
+  "Values":{
+    "AzureWebJobsStorage":"UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME":"node",
+    "COSMOS_DB_CONNECTION":"AccountEndpoint=https://azcdbacc.documents.azure.com:443/;AccountKey=QHcObsB0W82ZsevAnIcf90zkfWgywbzZHijjtrQFORHOkTqgtel8XbdV6tCONgQOlWW5cDNYH98yACDbGUnGKB==;",
+    "SWAPI_URL": "https://swapi.py4e.com/api/"
+  }
+}
